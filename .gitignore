@@ -1,0 +1,11 @@
+# .gitignore file
+passwords.txt
+.env
+envrc
+*.log
+.vs
+.vscode
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea
